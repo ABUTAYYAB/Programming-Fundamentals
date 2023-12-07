@@ -1,0 +1,18 @@
+Name: a
+Age: 1
+Matric Marks: 2
+Fsc Marks: 3
+Ecat Marks: 4
+
+Name: abc
+Age: 123
+Matric Marks: 123
+Fsc Marks: 123
+Ecat Marks: 123
+
+Name: 123
+Age: 123
+Matric Marks: 123
+Fsc Marks: 123
+Ecat Marks: 123
+
