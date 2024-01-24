@@ -1,0 +1,3 @@
+butter|10|10|good|good
+lassi|12|12|Sweet Yougurt which is gluten free|qyregerfg
+Milk|12|12||very good

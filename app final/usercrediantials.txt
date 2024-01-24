@@ -1,0 +1,3 @@
+maida|1234|customer|
+tayyab|1234|admin|
+ahmad|1234|employee|
